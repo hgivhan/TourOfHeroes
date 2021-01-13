@@ -1,4 +1,4 @@
-This project is a follow-along of the Angular tutorial found here: https://angular.io/tutorial.
+Getting familiar with Angular by using the tutorial found here: https://angular.io/tutorial.
 
 # AngularTourOfHeroes
 
